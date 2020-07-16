@@ -1,0 +1,20 @@
+baseURL = "http://amitchavan.me/"
+languageCode = "en-us"
+title = "Amit's Space"
+theme = "hallo"
+[Author]
+    name = "Amit"
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/nerdyator"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:me@amitchavan.me"
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://linkedin.com/in/amitchavan90"
